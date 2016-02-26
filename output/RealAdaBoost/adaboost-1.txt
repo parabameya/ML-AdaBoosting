@@ -1,0 +1,68 @@
+numberOfExamples = 4
+numberOfIteration = 5
+epsilon = 1.0E-7
+--------------------------------------------------
+Iterartion 1
+--------------------------------------------------
+
+
+The selected weak classifier: I(x < 3.75)
+The G error value of ht: 0.25
+The weights Ct+ : 0.0, and  Ct- :7.712474335199177
+The probabilities normalization factor: 0.5002236067753894
+The probabilities after normalization: 0.4997764931798893, 0.4997764931798893, 2.235068201106577E-4, 2.235068201106577E-4, 
+The values Ft(Xi) for each one of the examples : 0.0,0.0,7.712474335199177,7.712474335199177,
+The error of the boosted classifier: 0.25
+The bound on E : 0.5002236067753894
+--------------------------------------------------
+Iterartion 2
+--------------------------------------------------
+
+
+The selected weak classifier: I(x < 2.0)
+The G error value of ht: 0.01494680265185119
+The weights Ct+ : 7.712250778453597, and  Ct- :-3.5095518364635914
+The probabilities normalization factor: 0.030117162282482006
+The probabilities after normalization: 0.007422903594194084, 0.4963440039098835, 0.24811654624796117, 0.24811654624796117, 
+The values Ft(Xi) for each one of the examples : 7.712250778453597,-3.5095518364635914,4.202922498735585,4.202922498735585,
+The error of the boosted classifier: 0.0
+The bound on E : 0.015065315542782867
+--------------------------------------------------
+Iterartion 3
+--------------------------------------------------
+
+
+The selected weak classifier: I(x < 3.75)
+The G error value of ht: 0.06069854768097303
+The weights Ct+ : -2.101342835868371, and  Ct- :7.708693167189082
+The probabilities normalization factor: 0.1216198582413496
+The probabilities after normalization: 0.4990808722972357, 0.49908749527075447, 9.158162160048473E-4, 9.158162160048473E-4, 
+The values Ft(Xi) for each one of the examples : 5.610907942585226,-5.610894672331963,11.911615665924668,11.911615665924668,
+The error of the boosted classifier: 0.0
+The bound on E : 0.0018322415406744532
+--------------------------------------------------
+Iterartion 4
+--------------------------------------------------
+
+
+The selected weak classifier: I(x < 2.0)
+The G error value of ht: 0.030234828306911203
+The weights Ct+ : 7.711554361848114, and  Ct- :-2.8037597093909277
+The probabilities normalization factor: 0.06069305779381505
+The probabilities after normalization: 0.0036808354324043033, 0.4981731307924493, 0.2490730168875732, 0.2490730168875732, 
+The values Ft(Xi) for each one of the examples : 13.32246230443334,-8.41465438172289,9.10785595653374,9.10785595653374,
+The error of the boosted classifier: 0.0
+The bound on E : 1.1120434172038331E-4
+--------------------------------------------------
+Iterartion 5
+--------------------------------------------------
+
+
+The selected weak classifier: I(x < 3.75)
+The G error value of ht: 0.04282164535947481
+The weights Ct+ : -2.4538904780337316, and  Ct- :7.710616923635454
+The probabilities normalization factor: 0.08586648255762794
+The probabilities after normalization: 0.49869363120373933, 0.49870707947817833, 0.001299644659041076, 0.001299644659041076, 
+The values Ft(Xi) for each one of the examples : 10.86857182639961,-10.868544859756621,16.818472880169196,16.818472880169196,
+The error of the boosted classifier: 0.0
+The bound on E : 9.54872566866579E-6
